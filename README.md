@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehlika!
 - 👀 I’m third year software engineering student.
-- 🌱 I’m currently learning Java, HTML, CSS, Dart, Flutter.
+- 🌱 I’m currently learning Java, SQL, HTML, CSS, Dart, Flutter.
 
 <!---
 MehlikaErgl/MehlikaErgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
